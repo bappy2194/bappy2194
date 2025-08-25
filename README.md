@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm Mohammad Ziaur Rahman  
-🌟 Passionate about Software Engineering, AI, ML & Automation
+🌟 SQA Engineer
+🌟 Passionate about AI, ML
 
 ![GitHub followers](https://img.shields.io/github/followers/bappy2194?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/bappy2194?style=social)
