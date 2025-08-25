@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **bappy2194/bappy2194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I'm Ziaur  
+### Hi there 👋, I'm Ziaur  
 🌟 Passionate about Software, AI, ML & Automation
