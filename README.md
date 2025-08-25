@@ -30,5 +30,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bappy2194&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bappy2194&layout=compact&theme=vision-friendly-dark)
+
+
 
 
