@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 
 ![Profile views](https://komarev.com/ghpvc/?username=bappy2194&color=blue)
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+## 👨‍💻 Coding Life
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C0FF&center=true&vCenter=true&width=600&lines=I+love+coding+in+Python;Machine+Learning+is+my+passion;Building+automation+with+n8n+%26+AI;Always+learning+new+technologies" />
+</p>
+
 
 
 
