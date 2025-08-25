@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![Automation](https://img.shields.io/badge/Automation-43853D?style=flat&logo=Automation&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?bappy2194=bappy2194&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bappy2194&show_icons=true&theme=radical)
+
 
 
