@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-![ML](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Automation](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![ML](https://img.shields.io/badge/ML-20232A?style=flat&logo=ML&logoColor=61DAFB)
+![Automation](https://img.shields.io/badge/Automation-43853D?style=flat&logo=Automation&logoColor=white)
 
