@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm Ziaur  
-🌟 Passionate about Software, AI, ML & Automation
+### Hi there 👋, I'm Mohammad Ziaur Rahman  
+🌟 Passionate about Software Engineering, AI, ML & Automation
+
+## 🛠 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
+![ML](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Automation](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+
