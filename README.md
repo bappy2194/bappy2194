@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm Mohammad Ziaur Rahman  
 🌟 Passionate about Software Engineering, AI, ML & Automation
 
+![GitHub followers](https://img.shields.io/github/followers/bappy2194?style=social)
+![GitHub stars](https://img.shields.io/github/stars/bappy2194?style=social)
+
+
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-![ML](https://img.shields.io/badge/ML-20232A?style=flat&logo=ML&logoColor=61DAFB)
-![Automation](https://img.shields.io/badge/Automation-43853D?style=flat&logo=Automation&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bappy2194&show_icons=true&theme=radical)
